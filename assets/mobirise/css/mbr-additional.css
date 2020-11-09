@@ -2122,7 +2122,7 @@ a {
 .cid-sfGw81Pd3k {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #22a5e5;
+  background-color: #2299aa;
 }
 .cid-sfGw81Pd3k .card .card-header {
   background-color: transparent;
@@ -2152,34 +2152,44 @@ a {
 .cid-sfGw81Pd3k .panel-text {
   color: #ffffff;
 }
-.cid-sfGz6vBkCl {
-  padding-top: 2rem;
-  padding-bottom: 6rem;
-  background-color: #22a5e5;
+.cid-sfRBqbCJ5t {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #2299aa;
 }
-.cid-sfGz6vBkCl .mbr-overlay {
+.cid-sfRBqbCJ5t .mbr-overlay {
   background-color: #ffffff;
   opacity: 0.4;
 }
-.cid-sfGz6vBkCl form .mbr-section-btn {
+.cid-sfRBqbCJ5t form.mbr-form {
+  border-radius: 10px;
+  background-color: #fafafa;
+}
+@media (min-width: 992px) {
+  .cid-sfRBqbCJ5t form.mbr-form {
+    padding: 3rem 2rem;
+    width: 60%;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sfRBqbCJ5t form.mbr-form {
+    padding: 1rem;
+  }
+}
+.cid-sfRBqbCJ5t form.mbr-form .mbr-section-btn {
   text-align: center;
   width: 100%;
 }
-.cid-sfGz6vBkCl form .mbr-section-btn .btn {
-  display: inline-flex;
+.cid-sfRBqbCJ5t form.mbr-form .mbr-section-btn .btn {
+  width: 100%;
 }
-@media (max-width: 991px) {
-  .cid-sfGz6vBkCl form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
-.cid-sfGz6vBkCl .mbr-section-title {
+.cid-sfRBqbCJ5t .mbr-section-title {
   color: #ffffff;
 }
 .cid-sfGxFW868k {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #2299aa;
 }
 .cid-sfGxFW868k .mbr-iconfont {
   display: block;
@@ -2189,7 +2199,7 @@ a {
 }
 .cid-sfGxFW868k .card-wrapper {
   padding: 3rem;
-  background: #fafafa;
+  background: #ffffff;
   border-radius: 4px;
 }
 @media (max-width: 992px) {
@@ -2201,6 +2211,15 @@ a {
   .cid-sfGxFW868k .card-wrapper {
     padding: 3rem 1rem;
   }
+}
+.cid-sfGxFW868k .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sfGxFW868k .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-sfGxFW868k .card-title {
+  color: #2299aa;
 }
 .cid-sfGhnsAUP5 {
   padding-top: 2rem;
